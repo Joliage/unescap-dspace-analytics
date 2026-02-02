@@ -77,32 +77,9 @@ Consumes DSpace 7 REST APIs to retrieve publication metadata and links filtered 
 
 ![Filtered Output](screenshots/filtered.png)
 
-Example of a clean, bot-free usage record:
-```json
-{
-            _id
-        697d3f2c76b89e9c2a4e32cb
-        ip "2400:1a00:b080:6caa:dd3:a04b:16a2:5b5f"
-        referrer "https://repository.unescap.org/items/5080228a-2270-4f64-b548-8ab2989c7…"
-        dns "2400:1a00:b080:6caa:dd3:a04b:16a2:5b5f"
-        userAgent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, l…"
-        isBot  false
-        id "c814c4e0-f4e5-4873-88aa-310744c4c936"
-        type
-        owningItem
-        Array (1)
-        owningColl
-        Array (1)
-        owningComm
-        Array (1)
-        time "2025-05-01T00:44:39.891Z"
-        bundleName
-        Array (1)
-        statistics_type"view"
-        uid "327f801a-2523-4f53-a995-fb064fc0bf00"
-}
 
-🚀 ## Outcomes and Impact
+## 🚀 Outcomes and Impact
+
 
 - Removed bot traffic from repository analytics
 
@@ -115,7 +92,7 @@ Example of a clean, bot-free usage record:
 - Provided a foundation for dashboards and future ML-based bot detection
 
 
-💼 ## Skills Demonstrated
+## 💼 Skills Demonstrated
 
 - Backend development with Python
 
@@ -131,7 +108,7 @@ Example of a clean, bot-free usage record:
 
 - Real-world analytics system design
 
-🎓 ## Learning Outcomes Achieved
+## 🎓 Learning Outcomes Achieved
 
 - Modeled and implemented a MongoDB database from user requirements
 
@@ -143,7 +120,7 @@ Example of a clean, bot-free usage record:
 
 - Supported CMS-level integration with Drupal-based systems
 
-👔 ## Professional Context
+## 👔 Professional Context
 
 This project was completed as part of a supervised, industry-partnered academic course designed to provide professional experience equivalent to an internship, in collaboration with the United Nations ESCAP.
 
