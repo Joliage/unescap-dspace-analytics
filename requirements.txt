@@ -1,0 +1,6 @@
+requests
+pymongo
+tqdm
+python-dotenv
+selenium
+cloudscraper
