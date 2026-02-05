@@ -122,13 +122,13 @@ Consumes DSpace 7 REST APIs to retrieve publication metadata and links filtered 
 
 ## 👔 Professional Context
 
-This project was completed as part of a supervised, industry-partnered academic course designed to provide professional experience equivalent to an internship, in collaboration with the United Nations ESCAP.
+This project was completed as part of a my internship with the United Nations ESCAP.
 
 ---
 
 👩🏻‍💻 Author
 
-⭐ NAME: Naomi Bambara
+⭐ NAME: Naomie Bambara
 
 🤖 GitHub: https://github.com/Joliage
 
